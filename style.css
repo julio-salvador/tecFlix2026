@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    color: bisque;
+    font-family: "Isometra", serif;
+    margin: 10px;
+}
+
+header{
+    border-bottom: solid 15px;
+    padding: 55px;
+    font-size: 25px;
+    color: bisque;
+    text-align: center;
+}
+
+section{
+    background-color: bisque ;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    color: black;
+    padding: 30px;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
+
+p{
+    font-size: 18px;
+}
